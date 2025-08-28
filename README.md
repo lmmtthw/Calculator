@@ -1,5 +1,10 @@
 # 🧮 SwiftUI Calculator App
 
+![Swift](https://img.shields.io/badge/Swift-5.9-orange?logo=swift)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-Framework-blue?logo=swift)
+![Xcode](https://img.shields.io/badge/Xcode-15-blue?logo=xcode)
+![iOS](https://img.shields.io/badge/iOS-17-lightgrey?logo=apple)
+
 A simple **Calculator app** built using **SwiftUI**.  
 Supports basic arithmetic operations (**addition, subtraction, multiplication, division**) with a custom numeric keypad.
 
